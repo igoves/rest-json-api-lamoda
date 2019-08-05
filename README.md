@@ -1,4 +1,4 @@
-# REST JSON API for Lamoda [![Build Status](https://travis-ci.org/utz0r2/rest-json-api-lamoda.svg?branch=master)](https://travis-ci.org/utz0r2/rest-json-api-lamoda)
+# REST JSON API for Lamoda [![Build Status](https://travis-ci.org/utz0r2/php-mvc-auth-system.svg?branch=master)](https://travis-ci.org/utz0r2/php-mvc-auth-system)
 
 
 ## Overview
